@@ -7,7 +7,7 @@ Materials for the course "Deep Learning for Computer Vision"
 
 * **Slides**
 
-    - [intro](https://github.com/lyubonko/ucu2024cv/blob/main/lectures/lecture01_intro.pdf?raw=true)
+    - [intro](https://github.com/lyubonko/ucu2025cv/blob/main/lectures/lecture01_intro.pdf?raw=true)
 
 *  **Tutorials**
   
