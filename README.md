@@ -17,4 +17,7 @@ Materials for the course "Deep Learning for Computer Vision"
     - [tutorial02_cnn](https://colab.research.google.com/github/lyubonko/ucu2025cv/blob/main/tutorials/tutorial02_cnn.ipynb)
     - [tutorial03_vit](https://colab.research.google.com/github/lyubonko/ucu2025cv/blob/main/tutorials/tutorial03_vit.ipynb)
 
-  
+*  **Assignments**
+
+    - [assignment1](https://github.com/lyubonko/ucu2025cv/blob/main/assignments/assignment_module2_1.md)
+    - [assignment2](https://github.com/lyubonko/ucu2025cv/blob/main/assignments/assignment_module2_2.md)
