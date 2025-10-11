@@ -8,8 +8,10 @@ Materials for the course "Deep Learning for Computer Vision"
 * **Slides**
 
     - [lecture01-intro](https://github.com/lyubonko/ucu2025cv/blob/main/lectures/lecture01_intro.pdf?raw=true)
-    - [lecture02-cnn](https://github.com/lyubonko/ucu2025cv/blob/main/lectures/lecture02_cnn.pdf?raw=true)
+    - [lecture02-cnn](https://github.com/lyubonko/ucu2025cv/blob/main/lectures/lecture02_cnn.pdf?raw=true) (slides from two lectures)
     - [lecture03-vit](https://github.com/lyubonko/ucu2025cv/blob/main/lectures/lecture03_vit.pdf?raw=true)
+    - [lecture04-cv-vit](https://github.com/lyubonko/ucu2025cv/blob/main/lectures/lecture04_cv_vit.pdf?raw=true)
+    - [lecture05-detection](https://github.com/lyubonko/ucu2025cv/blob/main/lectures/lecture05_detection.pdf?raw=true)
 
 *  **Tutorials**
   
