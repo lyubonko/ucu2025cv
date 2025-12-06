@@ -23,3 +23,9 @@ Materials for the course "Deep Learning for Computer Vision"
 
     - [assignment1](https://github.com/lyubonko/ucu2025cv/blob/main/assignments/assignment_module2_1.md)
     - [assignment2](https://github.com/lyubonko/ucu2025cv/blob/main/assignments/assignment_module2_2.md)
+
+## Materials (5 module)
+
+* **Slides**
+
+    - [lecture01-diffusion](https://github.com/lyubonko/ucu2025cv/blob/main/lectures/gen_lecture_01_diffusions.pdf?raw=true)
