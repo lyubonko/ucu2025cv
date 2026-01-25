@@ -8,7 +8,7 @@ In this assignment, you will reverse-engineer a "Toy Experiment" from a recent c
 
 The Target Paper 
 
-* **Paper:** [Just Image Transformers for Diffusion (Li et al., 2025)](https://arxiv.org/abs/2501.04604)
+* **Paper:** [Back to Basics: Let Denoising Generative Models Denoise (Li et al., 2025)](https://arxiv.org/abs/2511.13720)
 * **Focus Section:** 3.3 Toy Experiment 
 * **Goal:** Reproduce Figure 2, which demonstrates the "Manifold Assumption" by comparing x-prediction, $\epsilon$-prediction, and v-prediction across increasing dimensions (($D=2$ to $D=512$).
 
